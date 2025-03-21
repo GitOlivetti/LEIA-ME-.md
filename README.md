@@ -16,9 +16,11 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 🌍 [Site OER Tecnologia](https://www.oertecnologia.com.br/)
 
-🌍 Facebook OER Tecnologia
+🌍 [Facebook OER Tecnologia](https://www.oertecnologia.com.br/)
 
-🌍 Laboratórios de REA do Facebook
+🌍 [Facebook OER Labs](https://www.facebook.com/oerdev)
+
+🌍 [Twitter OER Labs](https://x.com/oerlabsdev)
 
 ✉️ E-mail henrique@oerabs.com.br
 
