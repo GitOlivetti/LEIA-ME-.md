@@ -11,6 +11,29 @@
 
 🖥️ Por aqui os projetos são autenticados projetos antes de serem entregues aos clientes.
 
+#### Contatos ✨
+🤖 [OER Labs](https://oerlabs.com.br/blog/)
+🚀 [OER Labs Blog](https://oerlabs.com.br/blog)
+- [Rico Olivetti]()
+- [Twitter](https://x.com/oerlabsdev)
+- [Facebook](https://www.facebook.com/oerlabsdev)
+- ⌨️[Email](https://www.facebook.com/oerlabsdev)
+
+
+
+<!--
+
+☣️
+🔵
+✔️
+📲
+🎧
+🎶
+🎼
+💻
+⌨️
+📧
+
 
 ### Contents:
   - [Categories](#categories)
@@ -267,7 +290,7 @@
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=php,js,cs,dotnet,linux,wordpress,aws,azure,gcp,py,react,github,html&perline=15)](https://skillicons.dev)
 
-
+<!--
 
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
