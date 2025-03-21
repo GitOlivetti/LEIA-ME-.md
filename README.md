@@ -12,7 +12,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-🌍 **[Site OER Tecnologia] (https://oerlabs.com.br/)
+🌍 **[Site OER Tecnologia] (https://oerlabs.com.br/)**
 
 🌍 Site Laboratórios OER
 
