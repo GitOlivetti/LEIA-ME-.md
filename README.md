@@ -1,4 +1,4 @@
-# LEIA-ME.md
+# ⚡ Laboratórios REA ⚡
 
 # Título do projeto
 
