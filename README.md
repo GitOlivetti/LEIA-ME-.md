@@ -20,9 +20,9 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 🌍 Laboratórios de REA do Facebook
 
-✉️ E-mail henrique@oertecnologia.com.br
-
 ✉️ E-mail henrique@oerabs.com.br
+
+✉️ E-mail henrique@oertecnologia.com.br
 
 ```
 Dar exemplos
