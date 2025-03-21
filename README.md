@@ -1,6 +1,6 @@
 # ⚡ Laboratórios REA ⚡
 
-# Título do projeto
+# 🖥️ Sistema de testes OER Tecnologia! Por aqui os projetos são autenticados antes de serem entregues aos clientes.
 
 Um parágrafo da descrição do projeto vai aqui
 
