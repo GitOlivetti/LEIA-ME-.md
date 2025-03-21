@@ -11,18 +11,21 @@
 
 🖥️ Por aqui os projetos são autenticados projetos antes de serem entregues aos clientes.
 
-#### Contatos ✨
-🤖 [OER Labs](https://oerlabs.com.br/blog/)
-🚀 [OER Labs Blog](https://oerlabs.com.br/blog)
-- [Rico Olivetti]()
-- [Twitter](https://x.com/oerlabsdev)
-- [Facebook](https://www.facebook.com/oerlabsdev)
-- ⌨️[Email](https://www.facebook.com/oerlabsdev)
+## 📱 Contatos
+
+🤖 [OER Labs](https://oerlabs.com.br/blog/)<br>
+🚀 [OER Labs Blog](https://oerlabs.com.br/blog)<br>
+🐦 [Twitter](https://x.com/oerlabsdev)<br>
+🌐 [Facebook](https://www.facebook.com/oerlabsdev)<br>
+⌨️ [Email](https://www.facebook.com/oerlabsdev)<br>
 
 
+<br><br>
 
 <!--
 
+💬  
+📱
 ☣️
 🔵
 ✔️
@@ -287,7 +290,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 -->
 
-## Tools
+## ⛏ Tools 
 [![My Skills](https://skillicons.dev/icons?i=php,js,cs,dotnet,linux,wordpress,aws,azure,gcp,py,react,github,html&perline=15)](https://skillicons.dev)
 
 <!--
