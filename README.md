@@ -14,9 +14,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 🌍 [OER Labs](https://www.oerlabs.com.br/)
 
-🌍 Site OER Labs
-
-🌍 [Site OER Tecnologia](#-https://www.oerlabs.com.br/)
+🌍 [Site OER Tecnologia](https://www.oertecnologia.com.br/)
 
 🌍 Facebook OER Tecnologia
 
