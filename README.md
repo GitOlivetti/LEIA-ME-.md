@@ -1,4 +1,4 @@
-# ⚡ Laboratórios REA ⚡
+# ⚡ OER Labs ⚡
 
 ## 🖥️ Sistema de testes OER Tecnologia! Por aqui os projetos são autenticados antes de serem entregues aos clientes.
 
@@ -11,6 +11,18 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 ### 📋 Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
+
+🌍 Site OER Tecnologia
+
+🌍 Site Laboratórios OER
+
+🌍 Facebook OER Tecnologia
+
+🌍 Laboratórios de REA do Facebook
+
+✉️ E-mail henrique@oertecnologia.com.br
+
+✉️ E-mail henrique@oerabs.com.br
 
 ```
 Dar exemplos
