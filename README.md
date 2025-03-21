@@ -12,6 +12,8 @@ Consulte **[OER Labs](#-oerlabs.com.br)** para saber como implantar o projeto.
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
+* [Dropwizard](https://www.oerlabs.com.br/)) - O framework web usado
+
 🌍 Site OER Labs
 
 🌍 [Site OER Tecnologia](#-https://www.oerlabs.com.br/)
