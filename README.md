@@ -1,6 +1,6 @@
 # ⚡ Laboratórios REA ⚡
 
-# 🖥️ Sistema de testes OER Tecnologia! Por aqui os projetos são autenticados antes de serem entregues aos clientes.
+## 🖥️ Sistema de testes OER Tecnologia! Por aqui os projetos são autenticados antes de serem entregues aos clientes.
 
 ## 🚀 Começando
 
